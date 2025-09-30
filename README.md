@@ -6,9 +6,6 @@ Welcome to my **Projects repository**! This repository contains some Python proj
 - [About](#about)
 - [Projects](#projects)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 This repository is a collection of beginner to intermediate Python projects. It demonstrates my skills in Python programming, logic implementation, and game design.
